@@ -25,4 +25,5 @@ def monopoly_with_fourth_tier
   # you built in the previous method. Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
   # complexity.
+  monopoly = {:railroads => {:pieces => 4,:names=> :something, :rent_in_dollars => {:one =>1 , :two => 2, :three => 3, :four => 4}}}
 end
